@@ -2,6 +2,13 @@
 
 Um Shopping Center tem a necessidade de registrar as lojas que possui. Deve ser feito um sistema para permitir o cadastro e manutenção dos dados de uma loja, assim como informar quando ela deixou de fazer parte do shopping.
 
+Utilizando:
+- Servidor: Wildfly 10 (JEE7)
+- JAX-RS
+- Maven
+- EJB3
+- JPA
+
 URLs: 
 ###### Listar segmentos
 - **GET** http://localhost:8080/mall/api/segments
